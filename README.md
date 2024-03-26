@@ -1,3 +1,5 @@
+![image](https://github.com/arzoopervaiz/arzoopervaiz/assets/161163183/29830964-299b-4fce-a25f-3a31e4074fd5)
+
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
