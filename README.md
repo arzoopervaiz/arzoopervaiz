@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoopervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="arzoopervaiz" /> </p>
 
-I'm passionate learner diving into the world of programming,focsuing on Typescript, Java, c, C++ ,HTML, Css.<br>🔭 I’m Consistent, Hard-Working, and Motivated person.<br>👯Currently enrolled in the GIAIC Program Could AI Technology.<br>🤝 I’m currently learning advanced Programming stuffs.<br>🌱 Hailing from Karachi, Pakistan.<br>📫 How to reach me : arzoopervaiz456@gmail.com<br>⚡ Fun fact : i am funny.
+💻 I'm passionate learner diving into the world of programming, focusing on a variety of programming languages and technologies.<br>🔭 I’m Consistent, Hard-Working, and Motivated person.<br>👯Currently enrolled in the GIAIC Program Could AI Technology.<br>🤝 I’m currently learning advanced Programming stuffs.<br>🌱 Hailing from Karachi, Pakistan.<br>📫 How to reach me : arzoopervaiz456@gmail.com<br>⚡ Fun fact : i am funny.
 
 
 ## 🌐 Socials:
@@ -16,11 +16,6 @@ I'm passionate learner diving into the world of programming,focsuing on Typescri
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arzoopervaiz&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzoopervaiz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arzoopervaiz&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arzoopervaiz&limit=5&theme=algolia&combine_all_yearly_contributions=true)
