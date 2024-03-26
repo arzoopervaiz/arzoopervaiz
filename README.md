@@ -1,10 +1,6 @@
 
 
-<img src="https://github.com/arzoopervaiz/arzoopervaiz/assets/161163183/4f18629a-c82b-4e5e-b396-9d7e56188672" alt="Neon Green Gaming Channel YouTube Banner" width="1500" height="300">
-
-
-
-
+<img src="https://github.com/arzoopervaiz/arzoopervaiz/assets/161163183/5cdf990e-7210-41c4-9ce6-f0fc5a4b7015" alt="New Pic" width="1500" height="200">
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
