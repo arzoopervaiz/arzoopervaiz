@@ -1,7 +1,3 @@
-body {
-    background-color: #000000 !important;
-}
-
 # 💫 About Me:
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
@@ -32,7 +28,17 @@ I'm passionate learner diving into the world of programming,focsuing on Typescri
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+<style>
+/* Change background color to black */
+body {
+    background-color: #000000 !important;
+}
+</style>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=arzoopervaiz&icon=8&color=5)](https://visitcount.itsvg.in)
 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
