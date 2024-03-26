@@ -28,12 +28,6 @@ I'm passionate learner diving into the world of programming,focsuing on Typescri
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<style>
-/* Change background color to black */
-body {
-    background-color: #000000 !important;
-}
-</style>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arzoopervaiz&icon=8&color=5)](https://visitcount.itsvg.in)
@@ -41,4 +35,3 @@ body {
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
